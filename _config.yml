@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 
-avatar: https://avatars2.githubusercontent.com/u/2852646
+plugins:
+  - jekyll-sitemap
+
+logo: https://avatars2.githubusercontent.com/u/2852646
+
+title: Zhiliang Xu
+
+description: Zhiliang Xu's Tech Blog

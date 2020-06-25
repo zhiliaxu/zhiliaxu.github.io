@@ -3,7 +3,7 @@ title: How Do ASP.NET Core Services Validate JWT Signature Signed by AAD?
 nav_order: 1
 ---
 
-# How Do ASP.NET Core Services Validate JWT Signature?
+# How Do ASP.NET Core Services Validate JWT Signature by AAD?
 {: .no_toc }
 
 ## Table of contents

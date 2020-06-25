@@ -1,5 +1,5 @@
 ---
-title: How Do ASP.NET Core Services Validate JWT Signature?
+title: How Do ASP.NET Core Services Validate JWT Signature Signed by AAD?
 nav_order: 1
 ---
 
@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Background
 
-Let's use Azure Active Directory (AAD) for example. If we need to use JWT Bearer tokens issued by AAD (to either a user or service principal) for authentication, usually we can add below code to `ConfigureServices` in `Startup.cs`.
+ If we need to use JWT Bearer tokens issued by AAD (to either a user or service principal) for authentication, usually we can add below code to `ConfigureServices` in `Startup.cs`.
 
 ```csharp
 services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

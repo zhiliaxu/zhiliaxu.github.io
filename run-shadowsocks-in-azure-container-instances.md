@@ -44,7 +44,7 @@ Just for completeness, I'll show you how to connect to the server from iOS.
 * Install [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118) from App Store. When first run, you need to grant permission to the app to write VPN settings. Other Shadowsocks client apps also work.
 * Add a server and fill in the **Host**, **Port** and **Password** fields accordingly. Leave other fields as default.
 * Toggle the connect button to connect to the Shadowsocks server.
-* *Now you can open Google from mainland China!
+* Now you can open Google from mainland China!
 
 ![Add Server](images/add_server.png)
 

@@ -17,7 +17,7 @@ DevRel中国团队坐落在上海紫竹园区，现有30+成员，与总部Redmo
 
 DevRel China诚邀您加入我们，一起给Docs和Learn添砖加瓦！我们将一起：
 
-* 向**开源项目**[DocFX v3](https://github.com/dotnet/docfx/tree/v3)迁移，并持续改进文档编译速度，以支持不断新增的文档
+* 向[DocFX v3](https://github.com/dotnet/docfx/tree/v3)(**开源项目**)迁移，并持续改进DocFX的速度，以支持不断新增的文档
 * 使更多非专业作者可以轻松使用**在线可视化工具**编辑文档
 * 开发新的**视频编码系统**，以支持Docs和Learn上的视频
 * 支持Dynamics 365、Power Platform等免费**互动式学习体验**

@@ -4,10 +4,10 @@ Microsoft Developer Relations (DevRel) Team（微软开发者生态平台团队�
 
 DevRel中国团队坐落在上海紫竹园区，现有30+成员，与总部Redmond团队紧密合作，基于Microsoft Azure云平台，共同研发Microsoft Docs的核心功能。
 
-![团队合照](https://images-cdn.shimo.im/Ms48zftMTmeiZSWX.jpg)
-![团队合照](https://images-cdn.shimo.im/QT8o8nMX7oUDfEsn.jpg)
-![团队合照](https://images-cdn.shimo.im/eqh54BjtmYYNTsVZ.jpg)
-![团队合照](https://images-cdn.shimo.im/HPMLa7bnBFE9QUwy.jpg)
+![团队合照](https://camo.githubusercontent.com/8919d3e70b7e67348cec00e27b3faf431c5601b0/68747470733a2f2f696d616765732d63646e2e7368696d6f2e696d2f4d7334387a66744d546d65695a5357582e6a7067)
+![团队合照](https://camo.githubusercontent.com/ba7bf1f009d0806dd04566712b229d28807f9894/68747470733a2f2f696d616765732d63646e2e7368696d6f2e696d2f5154386f386e4d58376f55446645736e2e6a7067)
+![团队合照](https://camo.githubusercontent.com/5fdaac510f7ec4182f3caf7baa17e676f3f4db36/68747470733a2f2f696d616765732d63646e2e7368696d6f2e696d2f6571683534426a746d59594e5473565a2e6a7067)
+![团队合照](https://camo.githubusercontent.com/11fcd9e064f8b350621ae3eb141a5476aab6b611/68747470733a2f2f696d616765732d63646e2e7368696d6f2e696d2f48504d4c6137626e42464539515577792e6a7067)
 
 一起玩一起疯，一起为改变世界而用功
 

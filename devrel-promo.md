@@ -54,14 +54,14 @@ DevRel China诚邀您加入我们，一起给Docs和Learn添砖加瓦！我们�
 ## 本次招聘活动流程
 
 * [DevRel China职位](https://careers.microsoft.com/us/en/job/848593/Software-Engineer-II)
-* 投递简历[mailto:mstalent@microsoft.com](mstalent@microsoft.com)
+* 投递简历[mstalent@microsoft.com](mailto:mstalent@microsoft.com)
 * 简历筛选及HR沟通
 * 线上笔试1小时
 * 周末远程技术面试：10月11日
 
 ## 简历投递方式及注意事项
 
-* 提交英文简历至[mailto:mstalent@microsoft.com](mstalent@microsoft.com)
+* 提交英文简历至[mstalent@microsoft.com](mailto:mstalent@microsoft.com)
 * 邮件标题命名方式：DevRelChina-[姓名]-[手机号码]
 
 ## 员工福利

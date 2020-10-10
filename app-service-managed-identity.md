@@ -23,3 +23,5 @@ $ProgressPreference = "SilentlyContinue"
 $response = Invoke-WebRequest -UseBasicParsing -Uri "$($env:MSI_ENDPOINT)?resource=https://management.azure.com/&api-version=2017-09-01" -Headers $headers
 $response.RawContent
 ```
+
+Other valid values for `resource` are `https://storage.azure.com/`, `https://keyvault.azure.com/`, `https://graph.microsoft.com/`, and so on.

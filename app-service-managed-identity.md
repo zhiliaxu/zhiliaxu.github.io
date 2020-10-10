@@ -24,4 +24,4 @@ $response = Invoke-WebRequest -UseBasicParsing -Uri "$($env:MSI_ENDPOINT)?resour
 $response.RawContent
 ```
 
-Other valid values for `resource` are `https://storage.azure.com/`, `https://keyvault.azure.com/`, `https://graph.microsoft.com/`, and so on.
+Other valid values for `resource` are `https://storage.azure.com/`, `https://vault.azure.net/`, `https://graph.microsoft.com/`, and so on.

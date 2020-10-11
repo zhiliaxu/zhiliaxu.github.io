@@ -12,7 +12,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-In this post, I give some complete examples online about how to get access token for managed service identity on Azure App Service, both system assigned and user assigned.
+In this post, I give some complete examples to get access token for managed service identity on Azure App Service, covering both system assigned and user assigned identities.
 
 ## Environment variables
 

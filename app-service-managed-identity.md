@@ -96,7 +96,7 @@ AccessToken token =
     await new DefaultAzureCredential()
     .GetTokenAsync(
         new TokenRequestContext(
-            new[] { "https://storage.azure.com/" }
+            new[] { "https://storage.azure.com/.default" }
         ));
 Console.WriteLine(token.Token);
 ```
@@ -113,7 +113,7 @@ AccessToken token =
         })
     .GetTokenAsync(
         new TokenRequestContext(
-            new[] { "https://storage.azure.com/" }
+            new[] { "https://storage.azure.com/.default" }
         ));
 Console.WriteLine(token.Token);
 ```

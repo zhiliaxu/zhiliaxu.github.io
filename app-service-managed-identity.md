@@ -29,7 +29,7 @@ IDENTITY_ENDPOINT              http://127.0.0.1:41566/MSI/token/
 IDENTITY_HEADER                AD36************************31E3
 ```
 
-`MSI_ENDPOINT` is an alias for `IDENTITY_ENDPOINT`, and `MSI_ENDPOINT` is an alias for `IDENTITY_HEADER`.
+`MSI_ENDPOINT` is an alias for `IDENTITY_ENDPOINT`, and `MSI_SECRET` is an alias for `IDENTITY_HEADER`.
 
 ## Get JWT
 

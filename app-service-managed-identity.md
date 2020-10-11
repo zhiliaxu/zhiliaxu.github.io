@@ -87,7 +87,7 @@ Note that the header value is `secret` for `2017-09-01` version, and `X-IDENTITY
 
 ### Leveraging `Azure.Identity` NuGet Package
 
-It is much easier to get access token using the `Azure.Identity` NuGet Package (https://www.nuget.org/packages/Azure.Identity). Under the hood, the library gets access token from the identity endpoint on App Service via a REST call.
+It is much easier to get access token using the [`Azure.Identity` NuGet Package](https://www.nuget.org/packages/Azure.Identity). Under the hood, the library gets access token from the identity endpoint on App Service via a REST call.
 
 Here is the sample code using system assigned identity.
 

@@ -75,4 +75,4 @@ Now it is clear that
 
 * JWT signature is validated without providing any key or certification in our service's source code.
 * JWT signing key is retrieved from the well-known URL `https://login.microsoftonline.com/common/discovery/keys`, based on `JwtBearerOptions.Authority` property.
-* The signing key is cached in the `JwtBearerHandler` singleton instance, and so our ASP.NET Core service only needs to retrieve it once throughout its life cycle.
+* The signing key is cached in the `JwtBearerHandler` singleton instance, and so our ASP.NET Core service only needs to retrieve it once throughout its lifecycle.
